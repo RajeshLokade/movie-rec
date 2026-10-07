@@ -4,4 +4,8 @@ numpy
 scikit-learn
 requests
 python-dotenv
+httpx
+fastapi
+uvicorn
+
 
